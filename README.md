@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![](https://img.shields.io/badge/LinkedIn-ayushkumar25-blue)](https://www.linkedin.com/in/ddadsx/)
+[![](https://img.shields.io/badge/Gmail-ayush2608%40gmail.com-red)](mailto:ddadsx@gmail.com)
+
 <!--
 **ddadsx/ddadsx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
