@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![](https://img.shields.io/badge/LinkedIn-ddadsx-blue)](https://www.linkedin.com/in/ddadsx/)
+[![](https://img.shields.io/badge/LinkedIn-ddads-blue)](https://www.linkedin.com/in/ddads/)
 [![](https://img.shields.io/badge/Gmail-ddadsx%40gmail.com-red)](mailto:ddadsx@gmail.com)
 
 <!--
